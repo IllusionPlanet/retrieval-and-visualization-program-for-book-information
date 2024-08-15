@@ -1,2 +1,11 @@
-# retrieval-and-visualization-program-for-book-information
-#7 书籍信息检索和可视化程序
+类型：简易程序
+
+开发环境：PyCharm
+
+技术栈：Python，MySQL
+
+时间：2021/07 - 2021/08（大二夏季）
+
+人员：独立
+
+课程：工业实训
